@@ -1,2 +1,1 @@
 require 'pita'
-require 'scripts'
